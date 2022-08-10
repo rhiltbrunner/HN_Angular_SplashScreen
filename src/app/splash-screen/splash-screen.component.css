@@ -1,0 +1,8 @@
+.app-splash-screen {
+    background-color: blue;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+}
